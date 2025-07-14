@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Ezgisu!
+I'm a Computer Engineer with a passion for backend development, AI, and innovative solutions. With 3 years of professional experience, I focus on building secure, clean, and scalable backend systems. 
 
-<!--
-**EzgisuSenel/EzgisuSenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently improving my skills in FastAPI, Docker, and Data Engineering  
+🛠️ Experienced in Python, C#, .NET, Flask, FastAPI  
+📚 Master's in Computer Engineering – AI & Image Processing  
+🔍 Open to remote work opportunities
 
-Here are some ideas to get you started:
+📌 Featured Projects:
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🛒 **E-Commerce Backend API** | FastAPI, PostgreSQL, JWT | Modular RESTful API with product, user, and order modules |
+| ✅ **Task Management API** | FastAPI, SQLite | Simple CRUD task tracker with user authentication |
+| 📝 **Blog Platform API** | ASP.NET Core, EF Core | Clean backend for blog posts and user management |
+| 📦 **Mini ERP Backend** | FastAPI, PostgreSQL | Core modules: inventory, suppliers, and purchase orders |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://www.linkedin.com/in/ezgisusenel/) | 📫 ezgisu.senel@gmail.com
